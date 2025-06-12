@@ -1,6 +1,6 @@
 # 🤟 Automatic Sign Language Recognition - Complete Project
- (https://huggingface.co/spaces/DurgeshRajput11/ASL-talk-)
- 
+Web App For Live Demo : https://huggingface.co/spaces/DurgeshRajput11/ASL-talk-
+Presentation : https://github.com/DurgeshRajput11/ASL-AI/blob/main/Durgesh%20Singh%20presentation.pptx
 A comprehensive, production-ready American Sign Language (ASL) alphabet recognition system using state-of-the-art deep learning techniques, transfer learning, and real-time detection capabilities.
 
 ## 🎯 Project Overview
