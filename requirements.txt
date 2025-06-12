@@ -1,0 +1,48 @@
+# ASL Recognition Project Dependencies
+# Core Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Computer Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.3
+Pillow>=9.5.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Web Framework & Deployment
+fastapi>=0.100.0
+uvicorn>=0.23.0
+streamlit>=1.25.0
+python-multipart>=0.0.6
+
+# Utilities
+tqdm>=4.65.0
+ipywidgets>=8.0.0
+jupyter>=1.0.0
+
+# Image Processing
+albumentations>=1.3.0
+imgaug>=0.4.0
+
+# Model Analysis
+tensorboard>=2.13.0
+tensorflow-model-analysis>=0.44.0
+
+# API and File Handling
+requests>=2.31.0
+aiofiles>=23.0.0
+
+# Optional: For GPU acceleration
+# tensorflow-gpu>=2.13.0  # Uncomment if using GPU
