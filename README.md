@@ -10,8 +10,8 @@ A comprehensive, production-ready American Sign Language (ASL) alphabet recognit
 
 This project implements an end-to-end ASL recognition system with:
 
-- **Multiple CNN Architectures**: VGG16, ResNet50, InceptionV3, EfficientNet, MobileNet
-- **Transfer Learning**: Pre-trained models fine-tuned for ASL recognition
+- ** CNN Architecture**: VGG16
+- **Transfer Learning**: Pre-trained model fine-tuned for ASL recognition
 - **Real-time Detection**: MediaPipe + OpenCV integration for live recognition
 - **Web Interfaces**: FastAPI REST API and Streamlit web app
 - **Comprehensive Evaluation**: Detailed metrics, visualizations, and model comparison
