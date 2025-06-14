@@ -1,5 +1,5 @@
 # 🤟 Automatic Sign Language Recognition - Complete Project
-Web App For Live Demo : https://huggingface.co/spaces/DurgeshRajput11/ASL-talk-
+Web App For Live Demo : https://huggingface.co/spaces/DurgeshRajput11/ASL-talk-AI
 
 Presentation : https://github.com/DurgeshRajput11/ASL-AI/blob/main/Durgesh%20Singh%20presentation%20(3).pptx
 
