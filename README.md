@@ -60,11 +60,11 @@ dataset/
 
 ```bash
 # Create configuration file
-python main_training.py --create-config
+python ASL_Transfer_Learning_Complete.py --create-config
 
 # Edit training_config.json with your paths
 # Then run training
-python main_training.py --data-dir /path/to/dataset --epochs 30
+python ASL_Transfer_Learning_Complete.py  --data-dir /path/to/dataset --epochs 30
 ```
 
 ### 4. Real-time Detection
