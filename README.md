@@ -148,6 +148,7 @@ asl_recognition_project/
 - **FastAPI API** (`app.py`): RESTful API with batch processing
 - **Streamlit App** (`streamlit_app.py`): Interactive web interface
 
+
 ## 🎯 Usage Examples
 
 ### Training Custom Models
